@@ -1,8 +1,14 @@
-#### Hi there 👋
+## Hi there 👋
 
-I'm a junior backend web developer 🔥
+---
+
+I'm a backend web developer, Wangsun Kim
 
 > "The limits of my language mean the limits of my world." — Ludwig Wittgenstein
+
+## Tech Stack 🛠️
+
+---
 
 ### Strong
 
