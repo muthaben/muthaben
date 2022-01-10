@@ -17,7 +17,6 @@
 ### Experienced
 
 <div align=left> 
-  <img src="https://img.shields.io/badge/React-61DAFB">
   <img src="https://img.shields.io/badge/MySQL-4479A0">
   <img src="https://img.shields.io/badge/Sequelize-06AEEE">
   <img src="https://img.shields.io/badge/AWS-EC902C">
