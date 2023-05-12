@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a backend web developer, Wangsun Kim
+### I'm a web backend developer, Wangsun Kim
 
 > "The limits of my language mean the limits of my world." — Ludwig Wittgenstein
 
