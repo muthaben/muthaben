@@ -9,26 +9,21 @@
 ### Strong
 
 <div align=left> 
-  <img src="https://img.shields.io/badge/-JavaScript-EFD819">
-  <img src="https://img.shields.io/badge/-NodeJS-036D02">
-  <img src="https://img.shields.io/badge/-Express-2E2E2E">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
 </div>
 
 ### Experienced
 
-<div align=left> 
-  <img src="https://img.shields.io/badge/MySQL-4479A0">
-  <img src="https://img.shields.io/badge/Sequelize-06AEEE">
-  <img src="https://img.shields.io/badge/AWS-EC902C">
+<div align=left>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/CodeDeploy-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </div>
 
-### Learning
-
-<div align=left> 
-  <img src="https://img.shields.io/badge/-TypeScript-3078C5">
-  <img src="https://img.shields.io/badge/-NestJS-E0224D">
-  <img src="https://img.shields.io/badge/-TypeORM-E83523">
-</div>
 <!--
 **muthaben/muthaben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
